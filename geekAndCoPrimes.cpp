@@ -7,7 +7,6 @@ using namespace std;
 
  // } Driver Code Ends
 //User function Template for C++
-// this is changes
 class Solution {
 public:
     long long sum(long long N, long long M){
